@@ -2,7 +2,7 @@
 ## General information
 This front-end test has been designed to bring out your skills as a front end developer. We will take into consideration the quality of your code, your speed to complete the tasks, your ability to understand the requirements and how close you can match the design PSD provided.
 
-The test is separated into two stage, the fist stage should take around 2 hours using the provided tools. The second stage is about 4 hours
+The test should be completed entirely. Remember to record the time used to complete the test, we will require this information along with the test files.
 
 ### First stage
 In the first stage, the following is expected to be completed:
