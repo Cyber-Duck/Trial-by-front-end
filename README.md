@@ -7,10 +7,11 @@ The test should be completed entirely. Remember to roughly record the time used 
 ### Rules of the test
 - All coding must be done manually
 - Do not use a CSS reset
+- Do not use Bootstrap or any other full framework
 - Sass is required
 - It must be responsive
 - Do not use IDs for selectors in the CSS
-- Plugins and grid is allowed (don't use a full CSS framework)
+- Some plugins for effects is allowed
 
 ### Setup & Installation
 The files provided are a starter pack that contains everything you need to complete the test. You must have a recent version of NodeJS installed + Gulp 4 to get the build system to run. 
