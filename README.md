@@ -11,14 +11,14 @@ The test should be completed entirely. Remember to roughly record the time used 
 - Sass is required
 - It must be responsive
 - Do not use IDs for selectors in the CSS
-- Some plugins for effects is allowed
+- You can use CSS plugins for effects / animations
 
 ### Setup & Installation
 The files provided are a starter pack that contains everything you need to complete the test. You must have a recent version of NodeJS installed + Gulp 4 to get the build system to run. 
 
 Simply clone the repository, navigate to root folder and run `npm install` to get all the dependencies, then run `gulp` to watch the files as you work.
 
-The HTML file provided hs been already linked to the compiled CSS, JS and it contains the links to fonts used (Merryweather & Open Sans).
+The HTML file provided has been already linked to the compiled CSS, JS and it contains the links to fonts used (Merryweather & Open Sans).
 
 All the icons and images are provided, you must define how to use them and how to apply effects to them to match the design.
 
